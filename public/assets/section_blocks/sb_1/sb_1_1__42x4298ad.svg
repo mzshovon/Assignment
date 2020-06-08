@@ -1,0 +1,42 @@
+<svg width="42" height="42" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>noun_491376_cc</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-10160 -12568)">
+<g id="noun_491376_cc">
+<g id="Group">
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path0_fill" transform="translate(10160 12568)" fill="#E47790"/>
+</g>
+</g>
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path1_fill" transform="translate(10178.9 12576.4)" fill="#E47790"/>
+</g>
+</g>
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path2_fill" transform="translate(10168.4 12576.4)" fill="#E47790"/>
+</g>
+</g>
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path3_fill" transform="translate(10168.4 12584.8)" fill="#E47790"/>
+</g>
+</g>
+<g id="Group">
+<g id="Vector">
+<use xlink:href="#path4_fill" transform="translate(10168.4 12593.2)" fill="#E47790"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" d="M 29.4 35.6944L 29.4 35.8C 29.4 36.9046 28.5046 37.8 27.4 37.8L 6.2 37.8C 5.09543 37.8 4.2 36.9046 4.2 35.8L 4.2 6.2C 4.2 5.09543 5.09543 4.2 6.2 4.2L 27.4 4.2C 28.5046 4.2 29.4 5.09543 29.4 6.2L 29.4 6.3392C 30.6544 5.3872 32.0656 4.7152 33.6 4.4016L 33.6 2C 33.6 0.895431 32.7046 0 31.6 0L 2 0C 0.89543 0 0 0.895431 0 2L 0 40C 0 41.1046 0.895431 42 2 42L 31.6 42C 32.7046 42 33.6 41.1046 33.6 40L 33.6 31.6512L 29.5568 35.6944L 29.4 35.6944Z"/>
+<path id="path1_fill" d="M 21.2576 1.8396C 18.7936 -0.6132 14.8064 -0.6132 12.3536 1.8396L 0.585786 13.6074C 0.210713 13.9825 0 14.4912 0 15.0216L 0 21.0972C 0 22.2018 0.895431 23.0972 2 23.0972L 8.09744 23.0972C 8.62819 23.0972 9.13717 22.8862 9.5123 22.5108L 21.2576 10.7548C 23.7216 8.2908 23.7216 4.2924 21.2576 1.8396Z"/>
+<path id="path2_fill" d="M 14.8 0L 2 0C 0.895431 0 0 0.89543 0 2L 0 2.2C 0 3.30457 0.89543 4.2 2 4.2L 14.8 4.2C 15.9046 4.2 16.8 3.30457 16.8 2.2L 16.8 2C 16.8 0.895431 15.9046 0 14.8 0Z"/>
+<path id="path3_fill" d="M 6.2944 4.0432L 10.3376 0L 2 0C 0.89543 0 0 0.895431 0 2L 0 2.2C 0 3.30457 0.895431 4.2 2 4.2L 6.2944 4.2L 6.2944 4.0432Z"/>
+<path id="path4_fill" d="M 6.2944 0L 2 0C 0.895431 0 0 0.89543 0 2L 0 2.2C 0 3.30457 0.89543 4.2 2 4.2L 6.2944 4.2L 6.2944 0Z"/>
+</defs>
+</svg>
