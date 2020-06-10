@@ -26,8 +26,5 @@ class FrontendController extends Controller
         $this->view('pages/aboutUs');
 
     }
-    public function Return404Page(){
-        echo "404 Not Found!";
-    }
 
 }

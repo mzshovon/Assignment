@@ -9,6 +9,7 @@ class Controller{
     public function model($model){
 //        require the model
         require_once '../app/models/'. $model .'.php';
+
 //        create new model object
         return new $model;
     }
@@ -23,5 +24,8 @@ class Controller{
         }else{
             die($view .' view does not exit');
         }
+    }
+    public function Return404Page(){
+        require_once '../app/views/pages/error.php';
     }
 }

@@ -1,7 +1,7 @@
 <?php
 session_start();
 
-//creates admin session
+//creates backend session
 function createAdminSession($admin){
     $_SESSION['admin_id'] = $admin->id;
     $_SESSION['admin_name'] = $admin->name;
@@ -15,9 +15,21 @@ function guestRedirect($link = '/'){
     }
 }
 
-//redirects admin to a different page
-function adminRedirect($link = '/admin/dashboard'){
-    if (isset($_SESSION['admin_id'])){
+//redirects backend to a different page
+function adminRedirect($link = '/backend/dashboard'){
+    if (isset($_SESSION['role_id']) && $_SESSION['role_id'] == 1){
+        header('location: '.$link);
+    }
+}
+// redirect writer to a different page
+function writerRedirect($link = '/backend/dashboard'){
+    if (isset($_SESSION['role_id']) && $_SESSION['role_id'] == 2){
+        header('location: '.$link);
+    }
+}
+// redirect customer to a different page
+function customerRedirect($link = '/backend/dashboard'){
+    if (isset($_SESSION['role_id']) && $_SESSION['role_id'] == 3){
         header('location: '.$link);
     }
 }

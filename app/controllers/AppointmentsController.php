@@ -40,7 +40,7 @@ class AppointmentsController extends Controller{
     public function edit($id){
         $client = $this->getSingleAppointment($id);
         $client->date_err = '';
-        $this->view('admin/appointmentEdit', $client, 'client');
+        $this->view('backend/appointmentEdit', $client, 'client');
     }
 
     public function update($id){
@@ -67,7 +67,7 @@ class AppointmentsController extends Controller{
 //                Date is invalid, redirect to edit page with error
                 $client = $this->getSingleAppointment($id);
                 $client->date_err = 'Invalid date';
-                $this->view('admin/appointmentEdit', $client, 'client');
+                $this->view('backend/appointmentEdit', $client, 'client');
             }
         }else{
             header('location: /appointments/edit/'.$id);

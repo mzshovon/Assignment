@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ce18142-9ddf-4627-a724-273b0afb577b" name="Default Changelist" comment="" />
+    <list default="true" id="7ce18142-9ddf-4627-a724-273b0afb577b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/AuthController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/WriterController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/backend/dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/inc/backend/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/inc/backend/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/inc/backend/sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/views/pages/error.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/config/config.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/config/config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/AdminController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/AdminController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/AppointmentsController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/AppointmentsController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/FrontendController.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/FrontendController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/helpers/sessionHelper.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/helpers/sessionHelper.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/libraries/Controller.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/libraries/Controller.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/Admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/User.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/admin/appointmentEdit.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/backend/appointmentEdit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/admin/dashboard.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/admin/login.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/backend/login.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/admin/signup.php" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/backend/signup.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,7 +33,11 @@
       <executable />
     </execution>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ctkf2o3oOa8e5AKbHhgURTVFBa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -20,6 +45,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="ServiceViewManager">
@@ -53,6 +79,7 @@
       <workItem from="1591548313880" duration="4935000" />
       <workItem from="1591557190195" duration="1994000" />
       <workItem from="1591587941727" duration="3335000" />
+      <workItem from="1591682963024" duration="11222000" />
     </task>
     <servers />
   </component>
@@ -60,18 +87,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="471" y="179" key="NewPhpClassDialog" timestamp="1591372921751">
+    <state x="301" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1591698748308">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="471" y="179" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1591372921751" />
-    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1591556740143">
+    <state x="301" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1366.728@0.0.1366.728" timestamp="1591698748308" />
+    <state x="471" y="179" key="NewPhpClassDialog" timestamp="1591688716217">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1591556740143" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1591587943060">
+    <state x="471" y="179" key="NewPhpClassDialog/0.0.1366.728@0.0.1366.728" timestamp="1591688716217" />
+    <state x="517" y="288" key="NewPhpFileDialog" timestamp="1591685249988">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591587943060" />
+    <state x="517" y="288" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1591685249988" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1591807447740">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1591807447740" />
     <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1591432161655">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
