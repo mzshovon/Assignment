@@ -1,0 +1,14 @@
+<svg width="46" height="46" viewBox="0 0 46 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>Group 10</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-10769 -14221)">
+<g id="Group 10">
+<g id="Shape">
+<use xlink:href="#path0_fill" transform="translate(10769 14221)" fill="#0282D5"/>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 20.373 0C 31.6318 0 40.7461 9.10352 40.7461 20.3496C 40.7461 25.3828 38.6445 30.7031 35.5352 34.291L 45.4492 44.2051L 44.291 45.4902L 34.124 35.5371C 30.5859 38.5879 25.4121 40.6992 20.373 40.6992C 9.11426 40.6992 0 31.541 0 20.3496C 0 9.15625 9.11426 0 20.373 0ZM 1.95801 20.3477C 1.95801 30.4648 10.2451 38.7422 20.373 38.7422C 30.5586 38.7422 38.7881 30.4648 38.7881 20.3477C 38.7881 10.2324 30.501 1.95508 20.373 1.95508C 10.2451 1.95508 1.95801 10.2324 1.95801 20.3477Z"/>
+</defs>
+</svg>

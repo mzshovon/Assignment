@@ -1,0 +1,56 @@
+<svg width="57" height="45" viewBox="0 0 57 45" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>1</title>
+<desc>Created using Figma</desc>
+<g id="Canvas" transform="translate(-10763 -14059)">
+<g id="1">
+<g id="Shape">
+<use xlink:href="#path0_fill" transform="translate(10763.4 14059.4)" fill="#0282D5"/>
+</g>
+<g id="Group 14">
+<g id="Rectangle 7">
+<use xlink:href="#path1_fill" transform="translate(10780 14077)" fill="#C5E2F6"/>
+</g>
+<g id="Rectangle 7 Copy">
+<use xlink:href="#path1_fill" transform="translate(10780 14083)" fill="#C5E2F6"/>
+</g>
+<g id="Rectangle 7 Copy 2">
+<use xlink:href="#path1_fill" transform="translate(10780 14089)" fill="#C5E2F6"/>
+</g>
+<g id="Rectangle 7 Copy 3">
+<use xlink:href="#path2_fill" transform="translate(10782 14095)" fill="#0282D5"/>
+</g>
+<g id="Oval 5">
+<mask id="mask0_outline_ins">
+<use xlink:href="#path3_fill" fill="white" transform="matrix(-1 0 0 1 10777 14076)"/>
+</mask>
+<g mask="url(#mask0_outline_ins)">
+<use xlink:href="#path4_stroke_2x" transform="matrix(-1 0 0 1 10777 14076)" fill="#C5E2F6"/>
+</g>
+</g>
+<g id="Oval 5">
+<mask id="mask1_outline_ins">
+<use xlink:href="#path3_fill" fill="white" transform="matrix(-1 0 0 1 10777 14082)"/>
+</mask>
+<g mask="url(#mask1_outline_ins)">
+<use xlink:href="#path4_stroke_2x" transform="matrix(-1 0 0 1 10777 14082)" fill="#C5E2F6"/>
+</g>
+</g>
+<g id="Oval 5">
+<mask id="mask2_outline_ins">
+<use xlink:href="#path3_fill" fill="white" transform="matrix(-1 0 0 1 10777 14088)"/>
+</mask>
+<g mask="url(#mask2_outline_ins)">
+<use xlink:href="#path4_stroke_2x" transform="matrix(-1 0 0 1 10777 14088)" fill="#C5E2F6"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<path id="path0_fill" fill-rule="evenodd" d="M 4.28571 0C 1.92625 0 0 1.92625 0 4.28571L 0 40.2856C 0 42.6451 1.92625 44.5714 4.28571 44.5714L 52.2856 44.5714C 54.6451 44.5714 56.5713 42.6451 56.5713 40.2856L 56.5713 4.28571C 56.5713 1.92625 54.6451 0 52.2856 0L 4.28571 0ZM 4.28529 1.71484L 52.2852 1.71484C 53.7246 1.71484 54.8566 2.84687 54.8566 4.28627L 54.8566 11.1434L 1.71387 11.1434L 1.71387 4.28627C 1.71387 2.84687 2.8459 1.71484 4.28529 1.71484ZM 7.28571 5.14258C 6.57563 5.14258 6 5.71821 6 6.42829C 6 7.13837 6.57563 7.714 7.28571 7.714C 7.99579 7.714 8.57142 7.13837 8.57142 6.42829C 8.57142 5.71821 7.99579 5.14258 7.28571 5.14258ZM 11.5718 5.14258C 10.8618 5.14258 10.2861 5.71821 10.2861 6.42829C 10.2861 7.13837 10.8618 7.714 11.5718 7.714C 12.2819 7.714 12.8576 7.13837 12.8576 6.42829C 12.8576 5.71821 12.2819 5.14258 11.5718 5.14258ZM 15.857 5.14258C 15.1469 5.14258 14.5713 5.71821 14.5713 6.42829C 14.5713 7.13837 15.1469 7.714 15.857 7.714C 16.5671 7.714 17.1427 7.13837 17.1427 6.42829C 17.1427 5.71821 16.5671 5.14258 15.857 5.14258ZM 1.71387 12.8574L 54.8566 12.8574L 54.8566 40.2859C 54.8566 41.7253 53.7246 42.8574 52.2852 42.8574L 4.28529 42.8574C 2.8459 42.8574 1.71387 41.7253 1.71387 40.2859L 1.71387 12.8574Z"/>
+<path id="path1_fill" fill-rule="evenodd" d="M 0 0L 31 0L 31 1.5L 0 1.5L 0 0Z"/>
+<path id="path2_fill" fill-rule="evenodd" d="M 0 0L 20 0L 20 3L 0 3L 0 0Z"/>
+<path id="path3_fill" fill-rule="evenodd" d="M 2 4C 3.10457 4 4 3.10457 4 2C 4 0.895431 3.10457 0 2 0C 0.895431 0 0 0.895431 0 2C 0 3.10457 0.895431 4 2 4Z"/>
+<path id="path4_stroke_2x" d="M 2 5C 3.65685 5 5 3.65685 5 2L 3 2C 3 2.55228 2.55228 3 2 3L 2 5ZM 5 2C 5 0.343146 3.65685 -1 2 -1L 2 1C 2.55228 1 3 1.44772 3 2L 5 2ZM 2 -1C 0.343146 -1 -1 0.343146 -1 2L 1 2C 1 1.44772 1.44772 1 2 1L 2 -1ZM -1 2C -1 3.65685 0.343146 5 2 5L 2 3C 1.44772 3 1 2.55228 1 2L -1 2Z"/>
+</defs>
+</svg>

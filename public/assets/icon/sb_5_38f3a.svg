@@ -1,0 +1,17 @@
+<svg width="53" height="54" viewBox="0 0 53 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="path-2-inside-1" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 46H9V0H0V46Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 46H9V0H0V46Z" transform="translate(44 4)" fill="white" fill-opacity="0.01"/>
+<path d="M9 46V47.2188H10.2188V46H9ZM0 46H-1.21881V47.2188H0V46ZM9 0H10.2188V-1.21881H9V0ZM0 0V-1.21881H-1.21881V0H0ZM9 44.7812H0V47.2188H9V44.7812ZM7.78119 0V46H10.2188V0H7.78119ZM0 1.21881H9V-1.21881H0V1.21881ZM-1.21881 0V46H1.21881V0H-1.21881Z" transform="translate(44 4)" fill="#0282D5" mask="url(#path-2-inside-1)"/>
+<mask id="path-4-inside-2" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9 0H0V46H9V0Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M9 0H0V46H9V0Z" transform="translate(0 4)" fill="white" fill-opacity="0.01"/>
+<path d="M0 0V-1.21881H-1.21881V0H0ZM9 0H10.2188V-1.21881H9V0ZM0 46H-1.21881V47.2188H0V46ZM9 46V47.2188H10.2188V46H9ZM0 1.21881H9V-1.21881H0V1.21881ZM1.21881 46V0H-1.21881V46H1.21881ZM9 44.7812H0V47.2188H9V44.7812ZM10.2188 46V0H7.78119V46H10.2188Z" transform="translate(0 4)" fill="#0282D5" mask="url(#path-4-inside-2)"/>
+<mask id="path-5-inside-3" fill="white">
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H37V54H0V0Z"/>
+</mask>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M0 0H37V54H0V0Z" transform="translate(8)" fill="white" fill-opacity="0.01" stroke="#0282D5" stroke-width="2.43762" mask="url(#path-5-inside-3)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M7.00003 0C4.78671 0 2.96973 1.85207 2.96973 4.10811C2.96973 6.36414 4.78671 8.2162 7.00003 8.2162C9.21334 8.2162 11.0303 6.36414 11.0303 4.10811C11.0303 1.85207 9.21334 0 7.00003 0ZM7.0001 1.3623C8.5017 1.3623 9.68697 2.57364 9.68697 4.10825C9.68697 5.64286 8.5017 6.85419 7.0001 6.85419C5.4985 6.85419 4.31323 5.64286 4.31323 4.10825C4.31323 2.57364 5.4985 1.3623 7.0001 1.3623ZM7 8.64844C3.15776 8.64844 0 11.7446 0 15.5944V15.9998H1.34343V15.5944C1.34343 12.9417 4.04562 9.83238 7 9.83953C9.95438 9.84669 12.6566 12.9417 12.6566 15.5944V15.9998H14V15.5944C14 11.7446 10.8422 8.64844 7 8.64844Z" transform="translate(20 20)" fill="#0F89D7"/>
+</svg>
